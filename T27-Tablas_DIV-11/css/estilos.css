@@ -1,0 +1,33 @@
+body{
+    background-color: grey;
+}
+.tabla{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    border: white 5px solid;
+    border-style: outset;
+    text-align: justify;
+}
+.titulo{
+    background-color: darkgreen;
+    color: white;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+th {
+    border:rgb(0, 195, 255) 3px solid;
+    border-style: inset;
+    width: 150px;
+}
+.central{
+    background-color: rgb(77, 167, 77);
+}
+tr{
+    background-color: rgb(195, 255, 195);
+}
+td {
+    border:rgb(0, 195, 255) 3px solid;
+    border-style: inset;
+    font-weight: bold;
+}

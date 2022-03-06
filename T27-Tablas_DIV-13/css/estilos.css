@@ -1,0 +1,45 @@
+body {
+  width: auto;
+}
+h1 {
+  margin-bottom: 0px;
+  font-size: small;
+}
+.tabla {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+  font-weight: bold;
+  border: white 5px solid;
+  border-style: outset;
+  margin: auto;
+  width: 100%;
+  position: relative;
+}
+td {
+  border: black 1px solid;
+}
+.title {
+  text-align: center;
+}
+.cell1 {
+  background-color: greenyellow;
+  text-align: center;
+}
+.cell2 {
+  background-color: aqua;
+}
+.cell3y5y8 {
+  color: red;
+  text-align: center;
+}
+.cell4y7 {
+  text-align: center;
+}
+.cell6 {
+  background-color: violet;
+}
+span {
+  position: absolute;
+  bottom: 3px;
+  right: 6px;
+}

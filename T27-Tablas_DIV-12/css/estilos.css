@@ -1,0 +1,38 @@
+body{
+    background-color: grey;
+}
+.tabla{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    border: white 5px solid;
+    border-style: outset;
+}
+.titulo{
+    background-color: darkgreen;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+th {
+    border:rgb(0, 195, 255) 3px solid;
+    border-style: inset;
+    width: 150px;
+}
+tr{
+    background-color: rgb(195, 255, 195);
+}
+td {
+    border:rgb(0, 195, 255) 3px solid;
+    border-style: inset;
+    font-weight: bold;
+}
+.button{
+    background-color: rgb(77, 167, 77);
+}
+.leuros{
+    text-align: center;
+}
+.anchos{
+    text-align: center;
+    width: 250px;
+}
