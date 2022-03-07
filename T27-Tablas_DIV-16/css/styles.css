@@ -1,0 +1,21 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+table, th, td{
+    border: 1px solid black;
+    text-align: center;
+    color: #6b2520;
+}
+.title{
+    background-color: rgb(79, 177, 79);
+    padding: 0 200px;
+}
+.cabecera{
+    background-color: rgb(255, 161, 126);
+}
+.PequeñoGrande{
+    background-color: rgb(255, 255, 147);
+}
+.pisadas{
+    background-image: url(../img/pisadas_perro.jpg);
+}
